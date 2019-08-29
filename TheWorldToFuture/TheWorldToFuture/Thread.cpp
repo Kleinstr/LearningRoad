@@ -2,7 +2,7 @@
 
 int main()
 {
-	SwitchTest('D');
+	GetLocalTimeAndDate();
 	return 0;
 	
 }

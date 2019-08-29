@@ -2,6 +2,10 @@
 #include <iostream>
 #include <time.h>
 using namespace std;
+void TheFirstFunction()
+{
+	cout << "Hello World" << endl;
+}
 void	GetLocalTimeAndDate()
 {
 	
