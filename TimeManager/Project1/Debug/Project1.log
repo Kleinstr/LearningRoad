@@ -1,0 +1,8 @@
+﻿  TimeFi.cpp
+D:\TimeManager\TimeManager\Project1\TimeFi.cpp(23,16): warning C4838:  从“int”转换到“SHORT”需要收缩转换
+D:\TimeManager\TimeManager\Project1\TimeFi.cpp(23,18): warning C4838:  从“int”转换到“SHORT”需要收缩转换
+D:\TimeManager\TimeManager\Project1\TimeFi.cpp(71,20): warning C4244:  “=”: 从“time_t”转换到“long”，可能丢失数据
+D:\TimeManager\TimeManager\Project1\TimeFi.cpp(76,37): warning C4244:  “+=”: 从“time_t”转换到“long”，可能丢失数据
+D:\TimeManager\TimeManager\Project1\TimeFi.cpp(87,20): warning C4244:  “=”: 从“time_t”转换到“long”，可能丢失数据
+D:\TimeManager\TimeManager\Project1\TimeFi.cpp(108,9): warning C4244:  “初始化”: 从“time_t”转换到“long”，可能丢失数据
+  Project1.vcxproj -> D:\TimeManager\TimeManager\Debug\Timerset.exe
